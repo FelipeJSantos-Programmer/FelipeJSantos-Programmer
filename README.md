@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do FelipeJSantos-Programmer 😁
+## WELCOME! I AM FELIPEJSANTOS-PROGRAMMER 😁
 
  <div>
    <a href="https://github.com/FelipeJSantos-Programmer">
@@ -13,7 +13,7 @@
  
 <br>
  
-### Para Solicitar Projetos Frontend!
+### FOR FRONT-END WORKS!
  
 <div>
   <a href = "mailto:felipejsantos.programmer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
